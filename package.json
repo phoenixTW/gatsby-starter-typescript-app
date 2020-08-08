@@ -23,7 +23,8 @@
   },
   "devDependencies": {
     "prettier": "2.0.5",
-    "typescript": "^3.9.7"
+    "typescript": "^3.9.7",
+    "@types/react-helmet": "^6.1.0"
   },
   "keywords": [
     "gatsby",
