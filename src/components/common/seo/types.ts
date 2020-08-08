@@ -1,6 +1,6 @@
 export interface SEOProps {
-    description?: string;
-    lang?: string;
-    meta?: [];
-    title: string;
+  description?: string
+  lang?: string
+  meta?: []
+  title: string
 }
